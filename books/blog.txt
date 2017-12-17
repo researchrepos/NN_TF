@@ -1,0 +1,11 @@
+一文搞定BP神经网络——从原理到应用（原理篇）
+http://blog.csdn.net/u014303046/article/details/78200010
+
+有没有好理解的关于神经网络的书推荐
+https://www.zhihu.com/question/22410747
+
+神经网络与深度学习英文版
+http://neuralnetworksanddeeplearning.com/about.html
+
+TensorFlow 如何入门
+https://www.zhihu.com/question/49909565
